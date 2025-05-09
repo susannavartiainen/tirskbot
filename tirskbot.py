@@ -24,4 +24,4 @@ async def on_message(message):
         await message.channel.send('tirsk')
 
 # token
-client.run('MTM2NjUzNDcxNTQ4NTU4OTUxNA.GZVyyG.96c4Jy-tOMbAls5CcnlifuGoJswgFseLINUovU')
+client.run('')
